@@ -1,0 +1,20 @@
+/*
+* Custom CSS
+*/
+
+:root {
+    --bs-body-bg: var(--bs-gray-100);
+  }
+  
+  .tiro-devanagari-marathi-regular {
+    font-family: "Tiro Devanagari Marathi", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tiro-devanagari-marathi-regular-italic {
+    font-family: "Tiro Devanagari Marathi", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
